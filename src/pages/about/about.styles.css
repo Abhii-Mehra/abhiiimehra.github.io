@@ -1,0 +1,23 @@
+.about {
+  background-color: transparent;
+  font-size: 1.1em;
+}
+
+.profile {
+  max-width: 18em;
+  border-radius: 50%;
+}
+
+.my-details {
+  background-color: rgba(255, 255, 255, 0.747);
+  padding: 20px;
+}
+
+@media(max-width: 768px){
+  .my-details {
+    background-color: rgba(255, 255, 255, 0.747);
+  }
+  .my-details-col{
+    margin:0;
+  }
+}

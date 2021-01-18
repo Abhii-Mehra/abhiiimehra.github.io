@@ -25,6 +25,7 @@
   font-size: 3em;
   font-weight: 500;
   color: #ffffff;
+  color:#ffffff;
 }
 @media(max-width: 768px){
   .tech-skill-heading{
